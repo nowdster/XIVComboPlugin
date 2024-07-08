@@ -188,7 +188,7 @@ namespace XIVComboPlugin
         [CustomComboInfo("Double Regress", "Regress always replaces both Hell's Egress and Hell's Ingress.", 39)]
         ReaperRegressFeature = 1L << 58,
 
-        [CustomComboInfo("Enshroud Combo", "Replace Enshroud with Communio while you are Enshrouded.", 39)]
+        [CustomComboInfo("Enshroud Combo", "Replace Enshroud with Communio while Enshrouded, and Perfectio while Perfectio Parata", 39)]
         ReaperEnshroudCombo = 1L << 26,
 
         [CustomComboInfo("Arcane Circle Combo", "Replace Arcane Circle with Plentiful Harvest while you have Immortal Sacrifice.", 39)]

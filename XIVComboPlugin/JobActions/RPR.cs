@@ -15,6 +15,7 @@
             // Shroud
             Enshroud = 24394,
             Communio = 24398,
+            Perfectio = 36973,
 
             Egress = 24402,
             Ingress = 24401,
@@ -27,6 +28,7 @@
         {
             public const ushort
                 Enshrouded = 2593,
+                PerfectioParata = 3860,
                 Threshold = 2595,
                 ImSac1 = 2592,
                 ImSac2 = 3204;
